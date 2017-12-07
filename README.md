@@ -5,12 +5,12 @@
 **The Animal Species Repository System** is JAVA application designed for users who wants to view the information of any animals of India. Animal Species Repository System uses RDBMS for storage and retrieval of data. There will only be one super user who has all rights.
 
 ### Tools and Technologies :-
-**Front     :  JAVA(Eclipes)**<br>
-**DATABASE    :  postgresql(PgAdmin)**
+Front     :  JAVA(Eclipes)<br>
+DATABASE    :  postgresql(PgAdmin)
 <br>
 ### About System :-
 <br>
-The Animals information in our RDBMS is divided into the following 5 Category types:-<br>
+The Animals information in our RDBMS is divided into the following 5 Category types:-<br><br>
 
 **Critically Endangered:-**<br>
 A critically endangered (CR) species is one which has been categorized by the International Union for Conservation of Nature (IUCN) as facing a very high risk of extinction in the wild. It is the highest risk category assigned by the IUCN Red List for wild species.
