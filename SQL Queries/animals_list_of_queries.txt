@@ -1,0 +1,37 @@
+1. List all the names of animals of category 'Vulnerable'.
+2. Find the number of animals in state Gujarat.
+3. Find the number of animals in city ahemdabad
+4. Find the number of animals of category 'Least Concern' 
+5. List all the animals whose 'life-span' is between 30 and 40.
+6. List all the animals whose name starts with 'A' and weight is between 100 and 200.
+7. List all the animals whose scientific name starts with 'C' and has color yellow. 
+8. List all the animals in descending order (names).
+9. Count the number of male animals whose life-span is greater than 50.
+10. List all the Birds.
+11. List all the mammals whose color is violet.
+12. Count all the Fishes whose name starts with 'M'.
+13. Count all the animals sub-category wise.(c).
+14. Count the total number of animals who are either Birds or Mammals.(c)
+15. Count all the animals category wise.(c). 
+16. List the animals category wise whose count is greater than 10.(c)
+17. List the animals sub-category wise whose count is greater than 15.(c)
+18. Name the sub-category having highest number of animals.(c)
+19. Name the category having highest number of animals.(c)
+20. Name all the reptiles which are Least Concerned.
+21. Name all the Vulnerable species except Birds.(c)
+22. Name all the animals whose name length is minimum of all or maximum of all.(c)
+23. Find the population of 'Harlen' bird in Surat.
+24. Find the details of the animal whose population is greater than all other animals in Mumbai city.(c)
+25. Find the details of the animal whose population is greater than all other animals in Maharashtra state.(c)
+26. Find the details of vulnerable birds whose population is maximum in West Bengal.(c)
+27. Find the total population of mammals in Karnataka.
+28. Find the name of the state having highest Endangered Reptiles.(c)
+29. Find the population of Critically Endangered Amphibians in all the states.(c)
+30. List all the animals whose population in greater than 5000.
+31. List all the states in which the population of 'Invertebrates' is more than all the states of south india.(sc)
+
+31, 22, 28, 23, 29.
+
+5,16,18,29,31,24
+
+https://docs.google.com/document/d/1g3Vi5IYeb3dDsyuxlTHgSCkztH9B7IEmAmC5VepSJsY/edit?ts=5a02c912#
