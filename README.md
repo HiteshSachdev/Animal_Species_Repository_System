@@ -11,6 +11,7 @@
 ### About System :-
 <br>
 The Animals information in our RDBMS is divided into the following 5 Category types:-
+
 **Critically Endangered:-**<br>
 A critically endangered (CR) species is one which has been categorized by the International Union for Conservation of Nature (IUCN) as facing a very high risk of extinction in the wild. It is the highest risk category assigned by the IUCN Red List for wild species.
 <br>
